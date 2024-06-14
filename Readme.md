@@ -1,3 +1,3 @@
-#sample 2 
+#Sample_2 
 
-Text in that.
+Text in that followed
